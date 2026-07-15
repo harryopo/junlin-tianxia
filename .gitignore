@@ -1,0 +1,14 @@
+# 不提交资料文件（包含docx/xlsx/mp4等大文件）
+资料文件/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 工具缓存
+.workbuddy/
+__pycache__/
+*.pyc
+
+# Office临时文件
+~$*
